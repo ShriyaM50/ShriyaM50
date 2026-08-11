@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Shriya Mittal
 
-<!--
-**ShriyaM50/ShriyaM50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. CSE student at Chitkara University (2024–2028)
 
-Here are some ideas to get you started:
+🔐 Interested in Cybersecurity, Programming, Operating Systems & Computer Networks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm building
+
+- 🔍 **PrivacyLens AI** — a browser extension that scans files for hidden PII, 
+  credentials, and metadata risks before you share them (on-device, no data leaves your machine)
+
+## 🛠️ Skills
+
+`JavaScript` `HTML/CSS` `Regex` `Git/GitHub` `Browser Extensions`
+
+## 📫 Connect
+
+[GitHub](https://github.com/ShriyaM50)
